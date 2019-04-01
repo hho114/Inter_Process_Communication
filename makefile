@@ -12,8 +12,7 @@ CXX = ${CXX_COMMAND} -std=c++14 -Wall
 all: run_test
 
 run_test: sender receiver
-	./sender
-	./receiver
+
 
 headers: msg.h
 

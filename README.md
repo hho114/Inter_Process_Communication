@@ -9,7 +9,7 @@ Section 2
 – Execute in Linux terminal.
 
 – How to execute the program.
-  After extract directory from tar file.
+
   Go into directory and run "make" command.
   Then execute "./sender keyfile.txt" to send file to receiver.
   Until it notices "Wait until the receiver send us a message.", press Ctrl + Z to pause sender.

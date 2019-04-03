@@ -9,7 +9,7 @@ Section 2
 – Execute in Linux terminal.
 
 – How to execute the program.
-  After extract directory from tar file.
+
   Go into directory and run "make" command.
   Create a new window terminal at same directory.
   Then execute "./sender keyfile.txt" to send file to receiver.

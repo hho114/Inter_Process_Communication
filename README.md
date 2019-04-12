@@ -1,8 +1,10 @@
 CSUF-CPSC-351-SP19
 Assignment 1
 Section 2
-
+ Team Member:
  Alex Ho hho114@csu.fullerton.edu
+ Andrew Dinh decayingapple@csu.fullerton.edu
+
 
 – The programming language: C++
 

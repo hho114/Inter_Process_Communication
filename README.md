@@ -5,8 +5,10 @@ Section 2
  Team Member:
 
  Alex Ho hho114@csu.fullerton.edu
- 
+
  Andrew Dinh decayingapple@csu.fullerton.edu
+
+ Marco Chavez mchavez25@csu.fullerton.edu
 
 
 – The programming language: C++
